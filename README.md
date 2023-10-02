@@ -12,5 +12,3 @@ Fix my code is a new type of project, where we jump into an existing code base a
 * A README.md file, at the root of the folder of the project is mandatory.
 
 ### Author.
-
-Joseph Mahiuha - [Github](https://github.com/Mahiuha)
